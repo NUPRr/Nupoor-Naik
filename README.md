@@ -23,57 +23,43 @@ I learn best by building. From web applications and interactive dashboards to da
 
 ---
 
-## 🛠️ My Tech Stack
+🛠️ My Tech Stack
 
-### Programming Languages
+Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,python,java,c,cpp" />
+<img src="https://skillicons.dev/icons?i=java,html,css,python,c" />
 </p>
 
-### Web & Software Development
+Web & Software Development
 
 <p>
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,vite,git,github" />
 </p>
 
-### Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" />
-</p>
-
-### Data Analytics
+Data Analytics
 
 <p>
 <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
-`Pandas` · `NumPy` · `Matplotlib` · `Seaborn` · `Power BI` · `Excel` · `SQL`
+Pandas · NumPy · Matplotlib · Power BI · Excel · SQL
 
-### AI & Machine Learning
+AI & Machine Learning
 
 <p>
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
 </p>
 
-`Machine Learning` · `Deep Learning` · `Generative AI` · `Computer Vision` · `NLP`
+TensorFlow · PyTorch · Google Gemini · Generative AI · Machine Learning · Deep Learning · Computer Vision · NLP
 
-### Cloud & DevOps
-
-<p>
-<img src="https://skillicons.dev/icons?i=aws,docker,linux,githubactions" />
-</p>
-
-`AWS Lambda` · `Amazon S3` · `DynamoDB` · `API Gateway` · `EventBridge`
-
-### Design & Development Tools
+Design & Creative Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=figma,photoshop,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=figma,photoshop,canva" />
 </p>
 
----
+Adobe Photoshop · Adobe Creative Cloud · Canva · Figma
 
 ## 💻 My Projects
 
